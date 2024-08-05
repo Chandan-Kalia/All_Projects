@@ -1,3 +1,62 @@
+.sociallinks1{
+    width: 500%;
+    position: relative;
+}
+.sociallinks2{
+    width: 500%;
+    position: relative;
+    top: 3.5%;
+}
+.sociallinks3{
+    width: 500%;
+    position: relative;
+    left: 430%;
+}
+.sociallinks4{
+    width: 500%;
+    position: relative;
+    left: 430%;
+    top: 3.5%;
+}
+.layout-grid{
+    display: flex;
+    position: relative;
+    
+}
+.about{
+    position: relative;
+    top:27%
+}
+.social{
+    width: 100%;  
+}
+.social a{
+    text-decoration: none;
+    color: #fff;
+}
+.social a:hover{
+    color: rgb(255, 0, 86, 1);
+}
+.social1{
+    top: 10%;
+}
+.social1 a{
+    text-decoration: none;
+    color: #fff;
+}
+.social1 a:hover{
+    color: rgb(255, 0, 86, 1);
+}
+.social2{
+    top: 10%;
+}
+.social2 a{
+    text-decoration: none;
+    color: #fff;
+}
+.social2 a:hover{
+    color: rgb(255,0,86,1);
+}
 .footer{
     background-color: #0f0f0f;
     color: #fff;

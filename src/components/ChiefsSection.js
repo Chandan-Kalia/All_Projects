@@ -9,22 +9,22 @@ export default function ChiefsSection(){
             cuisine: "Mexican",
         },
         {
-            name: "John Doe",
+            name: "Sanjeev Kapoor",
             img: "/img/top-chiefs/img_2.jpg",
             recipesCount: "05",
-            cuisine: "Japanese",
+            cuisine: "Indian",
         },
         {
-            name: "Erich Maria",
+            name: "Ranveer Brar",
             img: "/img/top-chiefs/img_3.jpg",
             recipesCount: "13",
             cuisine: "Italian",
         },
         {
-            name: "Chris Brown",
+            name: "Vikas Khanna",
             img: "/img/top-chiefs/img_4.jpg",
             recipesCount: "08",
-            cuisine: "American"
+            cuisine: "Indian"
         },
         {
             name: "Blake Lively",
@@ -33,7 +33,7 @@ export default function ChiefsSection(){
             cuisine: "French"
         },
         {
-            name: "Ben Affleck",
+            name: "Vineet Bhatia",
             img: "/img/top-chiefs/img_6.jpg",
             recipesCount: "04",
             cuisine: "Indian"
